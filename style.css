@@ -1,0 +1,44 @@
+  body {
+    background-image: url(background.jpg);
+    text-align: center;
+  }
+  
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    white-space: Pre-line
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  .copyRightFooter{
+    position:absolute;
+    bottom: 0;
+    background-color: rgba(240, 255, 255, 0.793);
+    width: 100%;
+    
+  }
+
+  canvas{
+    border: 12px solid rgb(209, 209, 255);
+    border-radius: 12px;
+    margin-top: 120px;
+    box-shadow: 12px 12px 12px rgb(118, 118, 183);
+  }
